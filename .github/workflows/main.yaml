@@ -10,7 +10,7 @@ on:
 
 jobs:
   ci:
-    uses: ravicheetiralatl/GitHub-reuse-templates/.github/workflows/ci-python.yml@main
+    uses: ravicheetiralatl/github-reuse-templates/.github/workflows/ci-python.yml@main
     with:
       python-version: '3.9'
       coverage: false
