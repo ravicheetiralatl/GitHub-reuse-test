@@ -13,4 +13,4 @@ jobs:
     uses: ravicheetiralatl/GitHub-reuse-templates/.github/workflows/ci-python.yml@main
     with:
       python-version: '3.9'
-      coverage: true
+      coverage: false
